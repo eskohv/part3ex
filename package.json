@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "FSO exercises for part 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eskohv/part3ex.git"
+  },
+  "author": "Eetu Kohvakka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eskohv/part3ex/issues"
+  },
+  "homepage": "https://github.com/eskohv/part3ex#readme"
+}
